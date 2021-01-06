@@ -3,3 +3,5 @@
 	email = shahadul.haider@gmail.com
 [color]
 	ui = auto
+[credential "https://github.com"]
+	helper = !gh auth git-credential
